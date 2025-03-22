@@ -8,7 +8,7 @@ metadata:
     nginx.ingress.kubernetes.io/app-root: /
 spec:
   rules:
-  - host: blue-green..ncp.az5.app
+  - host: blue-green.ncp.az5.app
     http:
       paths:
       - path: /
